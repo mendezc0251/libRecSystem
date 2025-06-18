@@ -1,1 +1,6 @@
-Book Reccomendation system that makes use of a hybrid approach. It combines collaborative filtering and content-based filtering to more accurately reccomend books to users.
+# Collaborative and Content Based Hybrid Book Reccomendation System
+## Setup:
+1. Clone this repo
+2. Install any dependencies: pandas, numpy, sckit-learn
+3. Change the final cell to whichever user and isbn you'd like to test
+4. Run the notebook
